@@ -9,7 +9,7 @@ A simple Worm game built in Python using the turtle module, with score tracking,
 
 ## How to run
 1. Make sure Python is installed
-2. Run: "Python Project 1, Worm Game"
+2. Run: python "Python Project 1, Worm Game.py"
 
 ## Controls
 - W/A/S/D: Move
