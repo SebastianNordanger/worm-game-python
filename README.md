@@ -1,7 +1,7 @@
 # Worm Game
 A simple Worm game built in Python using the turtle module, with score tracking, power-ups, and custom skins.
 
-![Worm game screenshot](worm_game_screenshot.png)
+<p align="center"><img src="worm_game_screenshot.png" alt="Worm game screenshot"></p>
 
 ## Features
 - Score and high score tracking
